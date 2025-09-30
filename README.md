@@ -45,8 +45,12 @@ The quality of the output waveform depends on the switching method used. If the 
 
  
 # Schematic diagram
+<img width="1920" height="1020" alt="Screenshot 2025-09-30 083438" src="https://github.com/user-attachments/assets/02bd96bf-150e-4bd5-aa79-b05f33cc527f" />
+
 
 # Layout diagram
+<img width="1920" height="1020" alt="Screenshot 2025-09-30 083501" src="https://github.com/user-attachments/assets/e7fe86d2-f17c-4476-8a04-4bf1207598ae" />
+
 
 # RESULT:
 Thus, the schematic and PCB layout for the DC to AC inverter circuit has been successfully designed using Eagle software.
